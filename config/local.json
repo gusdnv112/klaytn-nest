@@ -1,0 +1,7 @@
+{
+    "klaytn":{
+        "apiUrl": "https://api.baobab.klaytn.net:8651",
+        "privateKey" : "0xa1f4cdf7f1d6eace066933484d8efa5b53bd9dd6964016a1d344486dfbcb081d",
+        "address": "0xcc1f9dd279cd6fcb9f964ad78c245256b06946bb"
+    }
+}
